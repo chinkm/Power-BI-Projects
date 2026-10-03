@@ -45,7 +45,7 @@ where are the gaps by division and block?
 
 **Screenshot:**
 ![FFB Production Analysis](./Power BI screenshots/ffb-production-comparison.png)
-![FFB Production Analysis](./Power BI screenshots/Division-ABWvsBunches-Analysis.png)
+
 
 ---
 
