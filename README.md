@@ -155,5 +155,5 @@ accounting professional with hands-on experience designing automation, ETL,
 and analytics for real business operations.
 
 🔗 LinkedIn: www.linkedin.com/in/chin-kee-ming-588685148 
-💻 GitHub: [this repo URL]
+💻 GitHub: https://github.com/chinkm/Power-BI-Projects.git
 
