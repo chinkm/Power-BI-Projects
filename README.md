@@ -44,8 +44,8 @@ where are the gaps by division and block?
 - Track whether last month's production is above or below the same month last year
 
 **Screenshot:**
-![FFB Production Analysis](<./Power BI screenshots/ffb-production-comparison.png>)
-![FFB Production Analysis](<./Power BI screenshots/Division-ABWvsBunches-Analysis.png>)
+![FFB Production Analysis](./Power BI screenshots/ffb-production-comparison.png)
+![FFB Production Analysis](./Power BI screenshots/Division-ABWvsBunches-Analysis.png)
 
 ---
 
@@ -75,9 +75,9 @@ different job categories, worker types, and blocks contribute to it?
 - Make staffing decisions based on the cost-per-MT impact
 
 **Screenshot:**
-![Payroll & Harvesting](<./Power BI screenshots/Harvesting-performance.png>)
-![Payroll & Harvesting](<./Power BI screenshots/worker-analytics.png>)
-![Payroll & Harvesting](<./Power BI screenshots/Block-Cost-Efficiency-Analysis.png>)
+![Payroll & Harvesting](./Power BI screenshots/Harvesting-performance.png)
+![Payroll & Harvesting](./Power BI screenshots/worker-analytics.png)
+![Payroll & Harvesting](./Power BI screenshots/Block-Cost-Efficiency-Analysis.png)
 
 ---
 
@@ -104,10 +104,17 @@ buying it from — and are we over-reliant on any single supplier?
 - Compare stock consumption patterns month-to-month
 
 **Screenshot:**
-![Stock Analytics](<./Power BI screenshots/stock-analysis.png>)
-![Stock Analytics](<./Power BI screenshots/Supplier-analysis.png>)
+![Stock Analytics](./Power BI screenshots/stock-analysis.png)
+![Stock Analytics](./Power BI screenshots/Supplier-analysis.png)
 
 ---
+
+## How to view these dashboards
+
+- **Static preview:** Screenshots below show the key views of each dashboard.
+- **Interactive version:** [Optional — if you use Publish to Web, add the link here]
+- **Source files:** The `.pbix` files are available on request — they contain
+  proprietary data and are not published publicly.
 
 ## Technical notes
 
@@ -154,10 +161,10 @@ purposes.
 
 ## About
 
-Built by **Chin Kee Ming** — a Python developer and 30-year financial/plantation
+Built by **Chin Kee Ming** — a Power BI analyst and Python developer and 30-year financial/plantation
 accounting professional with hands-on experience designing automation, ETL,
 and analytics for real business operations.
 
-🔗 LinkedIn: www.linkedin.com/in/chin-kee-ming-588685148 
-💻 GitHub: https://github.com/chinkm/Power-BI-Projects.git
+🔗 [LinkedIn]: (https://www.linkedin.com/in/chin-kee-ming-588685148)
+💻 GitHub: (https://github.com/chinkm/Power-BI-Projects)
 
