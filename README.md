@@ -112,7 +112,7 @@ buying it from — and are we over-reliant on any single supplier?
 ## How to view these dashboards
 
 - **Static preview:** Screenshots below show the key views of each dashboard.
-- **Interactive version:** [Optional — if you use Publish to Web, add the link here]
+- **Interactive version:** Available on request — will be published here when ready.
 - **Source files:** The `.pbix` files are available on request — they contain
   proprietary data and are not published publicly.
 
@@ -161,10 +161,10 @@ purposes.
 
 ## About
 
-Built by **Chin Kee Ming** — a Power BI analyst and Python developer and 30-year financial/plantation
+Built by **Chin Kee Ming** — a Power BI analyst and Python developer with 30-year financial/plantation
 accounting professional with hands-on experience designing automation, ETL,
 and analytics for real business operations.
 
-🔗 [LinkedIn]: (https://www.linkedin.com/in/chin-kee-ming-588685148)
-💻 GitHub: (https://github.com/chinkm/Power-BI-Projects)
+🔗 [LinkedIn](https://www.linkedin.com/in/chin-kee-ming-588685148)
+💻 [GitHub](https://github.com/chinkm/Power-BI-Projects)
 
