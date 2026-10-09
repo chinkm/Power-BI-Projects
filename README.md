@@ -111,7 +111,7 @@ buying it from — and are we over-reliant on any single supplier?
 
 ## How to view these dashboards
 
-- **Static preview:** Screenshots below show the key views of each dashboard.
+- **Static preview:** Screenshots above show the key views of each dashboard.
 - **Interactive version:** Available on request — will be published here when ready.
 - **Source files:** The `.pbix` files are available on request — they contain
   proprietary data and are not published publicly.
