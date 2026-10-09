@@ -44,8 +44,8 @@ where are the gaps by division and block?
 - Track whether last month's production is above or below the same month last year
 
 **Screenshot:**
-![FFB Production Analysis](./Power BI screenshots/ffb-production-comparison.png)
-![FFB Production Analysis](./Power BI screenshots/Division-ABWvsBunches-Analysis.png)
+![FFB Production Analysis](./Power-BI-screenshots/ffb-production-comparison.png)
+![FFB Production Analysis](./Power-BI-screenshots/Division-ABWvsBunches-Analysis.png)
 
 ---
 
@@ -75,9 +75,9 @@ different job categories, worker types, and blocks contribute to it?
 - Make staffing decisions based on the cost-per-MT impact
 
 **Screenshot:**
-![Payroll & Harvesting](./Power BI screenshots/Harvesting-performance.png)
-![Payroll & Harvesting](./Power BI screenshots/worker-analytics.png)
-![Payroll & Harvesting](./Power BI screenshots/Block-Cost-Efficiency-Analysis.png)
+![Payroll & Harvesting](./Power-BI-screenshots/Harvesting-performance.png)
+![Payroll & Harvesting](./Power-BI-screenshots/worker-analytics.png)
+![Payroll & Harvesting](./Power-BI-screenshots/Block-Cost-Efficiency-Analysis.png)
 
 ---
 
@@ -104,8 +104,8 @@ buying it from — and are we over-reliant on any single supplier?
 - Compare stock consumption patterns month-to-month
 
 **Screenshot:**
-![Stock Analytics](./Power BI screenshots/stock-analysis.png)
-![Stock Analytics](./Power BI screenshots/Supplier-analysis.png)
+![Stock Analytics](./Power-BI-screenshots/stock-analysis.png)
+![Stock Analytics](./Power-BI-screenshots/Supplier-analysis.png)
 
 ---
 
