@@ -161,9 +161,10 @@ purposes.
 
 ## About
 
-Built by **Chin Kee Ming** — a Power BI analyst and Python developer with 30-year financial/plantation
-accounting professional with hands-on experience designing automation, ETL,
-and analytics for real business operations.
+Built by **Chin Kee Ming** — a Power BI analyst and Python developer with
+30 years of financial and plantation accounting experience. I build analytics
+and automation tools that business teams actually use, because I understand
+the questions behind the data.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/chin-kee-ming-588685148)
 💻 [GitHub](https://github.com/chinkm/Power-BI-Projects)
